@@ -1,0 +1,30 @@
+{
+  "name": "blackjack",
+  "version": "0.0.1",
+  "author": "",
+  "description": "Simple Blackjack server using node and socket.io",
+  "main": "./server.js",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "1.7.x"
+  },
+  "noAnalyze": true,
+  "engines": {
+    "node": ">=0.6"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrawald/node-blackjack.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agrawald/node-blackjack/issues"
+  },
+  "homepage": "https://github.com/agrawald/node-blackjack#readme"
+}
